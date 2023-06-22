@@ -9,7 +9,7 @@ export const fetchShuttlesData = () => async dispatch => {
         const response = await fetch("https://eu-west-1.aws.data.mongodb-api.com/app/data-webug/endpoint/data/v1/action/find", {
             method: 'POST',
             headers: {
-                "api-key": "LObhark0VJAg6FgLqapnbgyX9Ltj7tZsCkbjWd4Nig0eb9LKL5rUZH1utHqeSnxW",
+                "api-key": "HIDDEN",
                 "Content-Type": "application/json",
             },
             body: JSON.stringify({
@@ -42,7 +42,7 @@ export const insertOrder = (orderData) => async (dispatch) => {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
-                    'api-key': 'LObhark0VJAg6FgLqapnbgyX9Ltj7tZsCkbjWd4Nig0eb9LKL5rUZH1utHqeSnxW',
+                    'api-key': 'HIDDEN',
                 },
                 body: JSON.stringify({
                     dataSource: 'Cluster0',
