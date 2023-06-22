@@ -2,11 +2,11 @@ import { Image, Platform, StyleSheet, Text } from "react-native";
 import { AntDesign } from 'react-native-vector-icons';
 import logo_binary from "../../assets/logo.png";
 
-export const MERCHANT_ID = "BCR2DN4T532PPIK5";
+export const MERCHANT_ID = "HIDDEN";
 export const ACTION_COLOR = "#83cc37";
 export const LOCAL_A_COLOR = "#8d10ac";
 export const LOCAL_B_COLOR = ACTION_COLOR;
-export const GOOGLE_MAPS_API_KEY = "AIzaSyBaTPsTypgvscohqTG7u1bV30OnR9fDi8U";
+export const GOOGLE_MAPS_API_KEY = "HIDDEN";
 
 export const icon_dictionary = {
     logo: logo_binary
