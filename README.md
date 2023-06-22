@@ -1,5 +1,11 @@
 # Jiva - Cab Service Application
 ## Project Description
+
+### Author's Notes
+- Robbins Jefferson Kariseb
+- MEAN stack, MERN stack, Python, TinyML, TensorFlow.js, C#, C++, Native Expo Go.
+- [LinkedIn](https://www.linkedin.com/in/robbins-jefferson-kariseb-515988112/ "Robbins Kariseb")
+
 Jiva is a cab service application that allows users to book rides conveniently and securely. It aims to provide a seamless transportation experience by connecting riders with drivers in a user-friendly and efficient manner. Whether users need to commute within the city or travel to a specific destination, Jiva ensures reliable and comfortable transportation services.
 
 ![Jiva Banner](https://github.com/ROK862/Jiva-Cab-Service/blob/main/assets/jiva-banner.png?raw=true)
